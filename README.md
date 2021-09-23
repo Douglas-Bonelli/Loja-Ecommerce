@@ -32,4 +32,13 @@ __Melhoria 1__, _melhoria 2_
 
 
 ### Imagem externa
-![Logo do Php](https://commons.wikimedia.org/wiki/File:PHP-logo.svg)
+![Logo do Php](https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg)
+
+## Links Interessantes
+[Google](https://www.google.com)
+
+[https://www.horadecodar.com.br](https://www.horadecodar.com.br)
+
+Contrinuidor Principal: https://www.github.com/matheusbattisti
+
+[![Logo do Php](https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg)](https://www.google.com)
